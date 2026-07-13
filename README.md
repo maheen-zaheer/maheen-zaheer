@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Maheen Zaheer!
 
-<!--
-**maheen-zaheer/maheen-zaheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+💡 IT Student & Developer | Passionate about building functional applications and modern workflows.
+```
 
-Here are some ideas to get you started:
+## 🛠️ Technical Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages & Frameworks:** Flutter, Dart
+* **Version Control & Tools:** Git, GitHub, Git Bash, Postman
+
+## 🚀 What I Bring to the Table
+
+* **Adaptability:** Fast learner dedicated to expanding foundational knowledge in software design and architecture.
+* **Collaboration:** Committed to clean version control habits, structured repositories, and precise documentation.
+* **Execution:** Focused on building personal projects to bridge the gap between academic theory and practical software development.
+
+## 🤝 Let's Connect
+
+* 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/maheen-zaheer-it)
+* 📧 **Email:** [maheenzaheer136@gmail.com](mailto:maheenzaheer136@gmail.com)
